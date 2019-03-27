@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Østfold",
+    "id": "osfk",
+    "host": "www.ostfoldfk.no",
+    "url": "https://www.ostfoldfk.no/"
+  },
+  {
+    "name": "Akershus",
+    "id": "afk",
+    "host": "www.akershus.no",
+    "url": "https://www.akershus.no/"
+  },
+  {
+    "name": "Hedmark",
+    "id": "hefk",
+    "host": "www.hedmark.org",
+    "url": "https://www.hedmark.org/"
+  },
+  {
+    "name": "Oppland",
+    "id": "ofk",
+    "host": "www.oppland.no",
+    "url": "https://www.oppland.no/"
+  },
+  {
+    "name": "Buskerud",
+    "id": "bfk",
+    "host": "www.bfk.no",
+    "url": "http://www.bfk.no/"
+  },
+  {
+    "name": "Vestfold",
+    "id": "vfk",
+    "host": "www.vfk.no",
+    "url": "https://www.vfk.no/"
+  },
+  {
+    "name": "Telemark",
+    "id": "tfk",
+    "host": "www.telemark.no",
+    "url": "https://www.telemark.no/"
+  },
+  {
+    "name": "Aust-Agder",
+    "id": "aafk",
+    "host": "www.austagderfk.no",
+    "url": "https://www.austagderfk.no/"
+  },
+  {
+    "name": "Vest-Agder",
+    "id": "vafk",
+    "host": "www.vaf.no",
+    "url": "https://www.vaf.no/"
+  },
+  {
+    "name": "Rogaland",
+    "id": "rfk",
+    "host": "www.rogfk.no",
+    "url": "http://www.rogfk.no/"
+  },
+  {
+    "name": "Hordaland",
+    "id": "hfk",
+    "host": "www.hordaland.no",
+    "url": "https://www.hordaland.no/"
+  },
+  {
+    "name": "Sogn og Fjordane",
+    "id": "sffk",
+    "host": "www.sfj.no",
+    "url": "https://www.sfj.no/"
+  },
+  {
+    "name": "Møre og Romsdal",
+    "id": "mrfk",
+    "host": "mrfylke.no",
+    "url": "https://mrfylke.no/"
+  },
+  {
+    "name": "Trøndelag",
+    "id": "trfk",
+    "host": "www.trondelagfylke.no",
+    "url": "https://www.trondelagfylke.no/"
+  },
+  {
+    "name": "Nordland",
+    "id": "nfk",
+    "host": "www.nfk.no",
+    "url": "https://www.nfk.no/"
+  },
+  {
+    "name": "Troms",
+    "id": "trofk",
+    "host": "www.tromsfylke.no",
+    "url": "https://www.tromsfylke.no/"
+  },
+  {
+    "name": "Finnmark",
+    "id": "ffk",
+    "host": "www.ffk.no",
+    "url": "https://www.ffk.no/"
+  }
+]
